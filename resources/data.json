@@ -1,0 +1,48 @@
+{
+  "basics":{
+         "name":"sarath",
+         "age":"20",
+          "role":"student",
+            "mobile":"8888888",
+           "email":"crreddy@gmail.com"
+  },
+  "career":{
+    "objective":"Assuming you have enough material to work with, you should do some customization of your resume for each job you apply to. Emphasize the things which matter most for the position you're trying to get in the company you're trying to get."
+  },
+  "education": [
+  {
+
+    "degree":"B.Tech(computer science of engineering)",
+    "college":"Sir CRR engineering college",
+    "data":["2015-19","75%"]
+},
+  {
+    "degree":"state board of technical education(diploma)",
+    "college":"sri vasavi engineering college",
+    "data":["2013-15","77%"]
+  },
+  {
+    "degree":"ssc",
+    "college":"kendriya vidyalaya",
+    "data":["2012-13","72%"]
+  }
+],
+"skills" : [
+  {
+    "name":"languages",
+    "info":["C","C++","oracle","java","web technologies"]
+  },
+    {
+      "name":"technologies",
+      "info":["html","javascript","json"]
+    },
+      {
+        "name":"operating systems",
+        "info":["ubuntu","windows"]
+      }
+
+
+
+]
+
+}
